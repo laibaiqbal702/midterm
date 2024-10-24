@@ -1,0 +1,11 @@
+/* Styles specific to the App component */
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+  margin-top: 20px;
+}
